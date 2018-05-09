@@ -10,7 +10,7 @@
 
 	<name>lab3</name>
 	<description>Lab 3</description>
-
+   //path added
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
